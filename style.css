@@ -1,0 +1,34 @@
+* utilities */ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #F0EBE3 !important;
+}
+
+/* main section  */
+.slider-img img {
+    height: 100vh;
+    filter: brightness(30%);
+
+}
+
+.slider-caption .heading {
+    font-size: 40PX;
+}
+
+.card-div .bgc-color {
+    background-color: #F4FAFD;
+}
+
+/* footer section  */
+footer {
+    width: 100%;
+    height: auto;
+    background-color: #161616;
+}
+
+footer p {
+    color: #E8E8E8;
+}
+
+/* .........end ........ */
