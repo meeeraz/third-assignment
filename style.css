@@ -1,6 +1,7 @@
-/* utilities */ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap'); */
+/* utilities */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
-body {
+*/ body {
     font-family: 'Poppins', sans-serif;
     background-color: #F0EBE3 !important;
 }
@@ -8,7 +9,7 @@ body {
 /* main section  */
 .slider-img img {
     height: 100vh;
-    filter: brightness(30%);
+    filter: brightness(60%);
 
 }
 
